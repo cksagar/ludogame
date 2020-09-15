@@ -86,7 +86,7 @@ body {
     text-align: center;
     font-size: 80px;
     font-weight: 100;
-    color: #EB4D4D;
+    color: #60c0e6;
     margin-bottom: 130px;
 }
 
@@ -97,14 +97,14 @@ body {
     content: "\2022";
     font-size: 47px;
     position: absolute;
-    color: #EB4D4D;
+    color: #52ccd4;
     top: -7px;
     right: 10px;
     
 }
 
 .player-current-box {
-    background-color: #EB4D4D;
+    background-color: #4d6aeb;
     color: #fff;
     width: 40%;
     margin: 0 auto;
